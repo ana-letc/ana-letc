@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ana-letc
-- 👀 Estou cursando Administração e estou estudando progamação full stack.
+- 👀 Estou cursando Administração e estou estudando programação full stack.
 
 
 <!---
